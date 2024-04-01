@@ -1,0 +1,209 @@
+html
+{
+	background-color: #f8f9fa;
+}
+body
+{
+	transform: translate(50%, 0);
+	width: 1000px;
+	padding: 20px;
+	border-radius: 15px;
+	background-color: #ffffff;
+}
+#info
+{
+	font-size: 14px;
+	margin: 5px 0px 20px 0px;
+	padding: 10px;
+}
+#table-header
+{
+	font-size: 15px;
+	font-weight: bold;
+	height: 35px;
+	background-color: #f8f9fa;
+}
+#playbox
+{
+	line-height:1
+}
+tr:nth-child(even)
+{
+	background-color: #f8f9fa;
+}
+.table-body
+{
+	font-size: 13px;
+	height: 35px;
+}
+.table-number
+{
+	width: 30px;
+	text-align: center;
+}
+.table-title
+{
+	width: 250px;
+	text-align: left;
+	padding-left:12px;
+}
+.table-artist
+{
+	width: 200px;
+	text-align: left;
+	padding-left:12px;
+}
+.table-key
+{
+	width: 100px;
+	text-align: left;
+	padding-left:12px;
+}
+.table-memo
+{
+	width: 100px;
+	text-align: left;
+	padding-left:12px;
+}
+.table-dif-n
+{
+	font-size: 12px;
+	width: 30px;
+	text-align: center;
+	background-color: #EBFFEB;
+	
+}
+.table-dif-h
+{
+	font-size: 12px;
+	width: 30px;
+	text-align: center;
+	background-color: #FAFAD2;
+}
+.table-dif-a
+{
+	font-size: 12px;
+	width: 30px;
+	text-align: center;
+	background-color: #FFE3EE;
+}
+.table-dif-o
+{
+	font-size: 12px;
+	width: 30px;
+	text-align: center;
+	background-color: #D2D2FF;
+}
+.table-release
+{
+	width: 100px;
+	text-align: left;
+	padding-left:12px;
+}
+.howtoplay
+{
+	color: #32A4FF;
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid;
+	border-color: #32A4FF;
+	border-radius:5px;
+}
+.howtomake
+{
+	color: #FFB6C1;
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid;
+	border-color: #FFB6C1;
+	border-radius:5px;
+}
+.difficulttable
+{
+	color: #DD78F6;
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid;
+	border-color: #DD78F6;
+	border-radius:5px;
+}
+.updatelog
+{
+	color: #000000;
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid;
+	border-color: #000000;
+	border-radius:5px;
+}
+.music-dif-n
+{
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+	margin:5px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #EBFFEB;
+}
+.music-dif-h
+{
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+	margin:5px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #FAFAD2;
+}
+.music-dif-a
+{
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+	margin:5px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #FFE3EE;
+}
+.music-dif-o
+{
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+	margin:5px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #D2D2FF;
+}
+.music-info
+{
+	font-size: 14px;
+	width: 600px;
+	margin:5px;
+	padding: 5px 10px 5px 10px;
+	border: 2px solid;
+	border-color: #F8F8FF;
+	border-radius: 5px;
+	background-color: #F8F8FF;
+}
+.return
+{
+	color: #32A4FF;
+	margin:5px;
+	padding: 5px;
+	border: 1px solid;
+	border-color: #32A4FF;
+	border-radius: 5px;
+}
+.log-info
+{
+	font-size: 14px;
+	width: 960px;
+	margin: 5px 5px 15px 5px;
+	padding: 5px 10px 5px 10px;
+	border: 2px solid;
+	border-color: #F8F8FF;
+	border-radius: 5px;
+	background-color: #F8F8FF;
+}
